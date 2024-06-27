@@ -23,17 +23,13 @@ This project aims to [insira o objetivo principal do projeto aqui, por exemplo, 
 - [Segundo indicador, por exemplo, "Retenção de Clientes"]
 - [Terceiro indicador, por exemplo, "Satisfação do Cliente"]
 
-## 📊 Main Insights
+## 📊 Business Insights
 
 [Descreva a situação atual e o que seu projeto propõe a melhorar. Por exemplo, "Nosso modelo atual enfrenta desafios em... A análise visa otimizar..."]
 
 ![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaSegundaImagem])
 
 [Aqui, você pode descrever o que a imagem acima representa e como ela se relaciona com o seu projeto.]
-
-## 📈 Insights e Conclusões
-
-[Resuma os principais insights obtidos e as conclusões do seu projeto. Por exemplo, "Nossa análise revelou que... Isso sugere que..."]
 
 ## 🚧 Recommendations
 
