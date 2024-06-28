@@ -6,6 +6,8 @@
 ## 📌 About the project
 The primary objective of this study is to comprehend employee attrition at IBM, one of the world's largest and most significant companies. The main idea here is to understand how each variable in the dataset can influence attrition. Through this analysis, I aim to generate insights and explore possible solutions.
 
+📄 [Here you can check the entire analysis!](https://colab.research.google.com/drive/1Yx-TdR8yuOjdkJyfe8fhfJIB0vX6JHDD#scrollTo=yivRKyc77gEE)
+
 ## 💼 Analysis and KPI
 
 In general, multiple factors can influence the departure of employees:
