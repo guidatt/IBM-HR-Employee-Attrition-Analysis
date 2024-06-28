@@ -1,44 +1,41 @@
 # IBM HR Employee Attrition Analysis
 
-![image](https://github.com/danielesantiago/TemplatePED/assets/64613885/cc24a702-46b8-4263-a764-8c65c56f02ac)
+![image](https://github.com/guidatt/IBM-HR-Employee-Attrition-Analysis/blob/main/GettyImages-1252213663-f631cb2227594218b76e5682d8cfef1c.jpg)
 
 
 ## 📌 About the project
-This project aims to [insira o objetivo principal do projeto aqui, por exemplo, "analisar dados de vendas para identificar tendências de mercado"]. Utilizamos [insira as técnicas utilizadas, por exemplo, "técnicas avançadas de análise de dados, machine learning e processamento de linguagem natural"] para [insira o resultado esperado do projeto, por exemplo, "identificar padrões de compra e prever tendências futuras"].
+The primary objective of this study is to comprehend employee attrition at IBM, one of the world's largest and most significant companies. The main idea here is to understand how each variable in the dataset can influence attrition. Through this analysis, I aim to generate insights and explore possible solutions.
 
-📄 [Veja o template da apresentação](https://github.com/danielesantiago/TemplatePED/blob/master/reports/Template_Case.pptx)
+## 💼 Analysis and KPI
 
-📄 [Veja o template do notebook](https://github.com/danielesantiago/TemplatePED/blob/master/notebooks/Case%20Fraude.ipynb)
+In general, multiple factors can influence the departure of employees:
 
-## 💼 Objectives
-[Descreva o contexto e a importância do seu projeto. Por exemplo, "No contexto atual de crescente volume de dados, entender padrões complexos em comportamentos de consumidores é crucial para estratégias de marketing eficazes."]
+- Dissatisfaction with the pay;
+- Lack of career development;
+- Dissatisfaction with the work environment, people, work-life balance, or with their role;
+- Relocating to another sector or leaving for another company;
+- Retirement;
 
-**Tipos de Análise Realizados:**
-- [Insira o tipo de análise, por exemplo, "Análise de Sentimento"]
-- [Outro tipo de análise, por exemplo, "Tendências de Mercado"]
-- [Mais um tipo, por exemplo, "Padrões de Comportamento do Consumidor"]
+In this study, we will analyze deeply the different factors that influenced the departures at IBM.
 
-**Principais Indicadores Chave de Desempenho:**
-- [Primeiro indicador, por exemplo, "Taxa de Conversão"]
-- [Segundo indicador, por exemplo, "Retenção de Clientes"]
-- [Terceiro indicador, por exemplo, "Satisfação do Cliente"]
+**KPI:**
+- Attrition Rate: Number of Departures / Total Number of Employees x 100
 
 ## 📊 About the Data
 
-[Descreva a situação atual e o que seu projeto propõe a melhorar. Por exemplo, "Nosso modelo atual enfrenta desafios em... A análise visa otimizar..."]
+The dataset used in this study can be found on Kaggle.com, one of the leading websites in Data Science and Machine Learning.
 
-![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaSegundaImagem])
+- Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-[Aqui, você pode descrever o que a imagem acima representa e como ela se relaciona com o seu projeto.]
+## 📊 Insights
 
-## 📊 Business Insights
-
-[Descreva a situação atual e o que seu projeto propõe a melhorar. Por exemplo, "Nosso modelo atual enfrenta desafios em... A análise visa otimizar..."]
-
-![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaSegundaImagem])
-
-[Aqui, você pode descrever o que a imagem acima representa e como ela se relaciona com o seu projeto.]
+- Younger individuals are more likely to leave the company, possibly due to their willingness to take risks and seek new experiences.
+- Employees from the Human Resources department who left the company had the lowest income compared to other departments. Additionally, it was observed that 33.3% were dissatisfied with the work environment, and 41.7% expressed dissatisfaction with their job.
+- There is a significant likelihood that the increased attrition rate in this department is correlated with income and dissatisfaction with the work environment and the job itself.
+- The Attrition Percent is notably higher for individuals with "Bad" or "Low" Environment Satisfaction, Job Satisfaction, Relationship Satisfaction, and Work-Life Balance values.
 
 ## 🚧 Recommendations
 
-[Descreva os próximos passos para o seu projeto, por exemplo, "O próximo passo é implementar o modelo em um ambiente de produção para testar sua eficácia em tempo real."]
+- As we've seen, younger individuals are more likely to leave the company, possibly due to their willingness to take risks and seek new experiences. A solution would be for IBM to propose an appealing career plan for these individuals, emphasizing internal growth opportunities and potential new experiences within the company.
+- Regarding issues in the human resources department, offering higher salaries for these professionals (considering that they receive significantly less in comparison to other departments) and increased internal investment can contribute to retaining more professionals in the company.
+- Overall, conducting internal research with employees is imperative to gain a detailed understanding of the specific reasons for dissatisfaction and to proactively prevent employee turnover.
